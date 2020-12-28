@@ -1,5 +1,7 @@
 # About this Project
 
+LINK to this website: https://tempapp-redux.netlify.app/
+
 This is a temperature app that gets the Weather temperature (celcius & farenheit) for both Kuala Lumpur & Singapore city
 
 - Created with ReactJS library
