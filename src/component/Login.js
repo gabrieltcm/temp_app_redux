@@ -78,7 +78,6 @@ function Login(props) {
 
     //JSON  format of the API response
     const JsonFormat = JSON.stringify(response);
-    console.log("Temperature in Celcius:", weatherInfo.data_tempearature.temp);
     console.log("JSON format", JsonFormat);
     history.push("/results");
 
